@@ -1,0 +1,40 @@
+.w3-container{
+    max-width: 1060px;
+    margin: 0 auto;
+}
+
+.w3-panel{
+    max-width: 1060px;
+    margin: 0 auto;
+}
+
+h1,h2,h3,h5{
+    font-family: "Comic Sans MS", Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center; }
+
+h2 {color: white;}
+
+body {
+    font-family: "Comic Sans MS", Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    color: midnightblue;
+}
+
+img {display: inline;
+    width: 50px;
+    height: 100px;
+    padding-bottom: 5px;}
+
+div.mybdr {border-style: solid;
+    border-width: 2px;
+    border-color: midnightblue;}
+
+footer {color: white;
+    background-color: midnightblue;
+    padding: 10px;}
+
+.right {text-align: right;}
+.left {text-align: left;}
+
+div.solidblue {background-color: midnightblue;}
